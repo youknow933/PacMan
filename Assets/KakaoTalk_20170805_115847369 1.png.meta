@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: f89dff8f5e2eb2f498b5ca2b02bdb521
+timeCreated: 1501902136
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KakaoTalk_20170805_115847369_0
+    21300002: KakaoTalk_20170805_115847369_1
+    21300004: KakaoTalk_20170805_115847369_2
+    21300006: KakaoTalk_20170805_115847369_3
+    21300008: KakaoTalk_20170805_115847369_4
+    21300010: KakaoTalk_20170805_115847369_5
+    21300012: KakaoTalk_20170805_115847369_6
+    21300014: KakaoTalk_20170805_115847369_7
+    21300016: KakaoTalk_20170805_115847369_8
+    21300018: KakaoTalk_20170805_115847369_9
+    21300020: KakaoTalk_20170805_115847369_10
+    21300022: KakaoTalk_20170805_115847369_11
+    21300024: KakaoTalk_20170805_115847369_12
+    21300026: KakaoTalk_20170805_115847369_13
+    21300028: KakaoTalk_20170805_115847369_14
+    21300030: KakaoTalk_20170805_115847369_15
+    21300032: KakaoTalk_20170805_115847369_16
+    21300034: KakaoTalk_20170805_115847369_17
+    21300036: KakaoTalk_20170805_115847369_18
+    21300038: KakaoTalk_20170805_115847369_19
+    21300040: KakaoTalk_20170805_115847369_20
+    21300042: KakaoTalk_20170805_115847369_21
+    21300044: KakaoTalk_20170805_115847369_22
+    21300046: KakaoTalk_20170805_115847369_23
+    21300048: KakaoTalk_20170805_115847369_24
+    21300050: KakaoTalk_20170805_115847369_25
+    21300052: KakaoTalk_20170805_115847369_26
+    21300054: KakaoTalk_20170805_115847369_27
+    21300056: KakaoTalk_20170805_115847369_28
+    21300058: KakaoTalk_20170805_115847369_29
+    21300060: KakaoTalk_20170805_115847369_30
+    21300062: KakaoTalk_20170805_115847369_31
+    21300064: KakaoTalk_20170805_115847369_32
+    21300066: KakaoTalk_20170805_115847369_33
+    21300068: KakaoTalk_20170805_115847369_34
+    21300070: KakaoTalk_20170805_115847369_35
+    21300072: KakaoTalk_20170805_115847369_36
+    21300074: KakaoTalk_20170805_115847369_37
+    21300076: KakaoTalk_20170805_115847369_38
+    21300078: KakaoTalk_20170805_115847369_39
+    21300080: KakaoTalk_20170805_115847369_40
+    21300082: KakaoTalk_20170805_115847369_41
+    21300084: KakaoTalk_20170805_115847369_42
+    21300086: KakaoTalk_20170805_115847369_43
+    21300088: KakaoTalk_20170805_115847369_44
+    21300090: KakaoTalk_20170805_115847369_45
+    21300092: KakaoTalk_20170805_115847369_46
+    21300094: KakaoTalk_20170805_115847369_47
+    21300096: KakaoTalk_20170805_115847369_48
+    21300098: KakaoTalk_20170805_115847369_49
+    21300100: KakaoTalk_20170805_115847369_50
+    21300102: KakaoTalk_20170805_115847369_51
+    21300104: KakaoTalk_20170805_115847369_52
+    21300106: KakaoTalk_20170805_115847369_53
+    21300108: KakaoTalk_20170805_115847369_54
+    21300110: KakaoTalk_20170805_115847369_55
+    21300112: KakaoTalk_20170805_115847369_56
+    21300114: KakaoTalk_20170805_115847369_57
+    21300116: KakaoTalk_20170805_115847369_58
+    21300118: KakaoTalk_20170805_115847369_59
+    21300120: KakaoTalk_20170805_115847369_60
+    21300122: KakaoTalk_20170805_115847369_61
+    21300124: KakaoTalk_20170805_115847369_62
+    21300126: KakaoTalk_20170805_115847369_63
+    21300128: KakaoTalk_20170805_115847369_64
+    21300130: KakaoTalk_20170805_115847369_65
+    21300132: KakaoTalk_20170805_115847369_66
+    21300134: KakaoTalk_20170805_115847369_67
+    21300136: KakaoTalk_20170805_115847369_68
+    21300138: KakaoTalk_20170805_115847369_69
+    21300140: KakaoTalk_20170805_115847369_70
+    21300142: KakaoTalk_20170805_115847369_71
+    21300144: KakaoTalk_20170805_115847369_72
+    21300146: KakaoTalk_20170805_115847369_73
+    21300148: KakaoTalk_20170805_115847369_74
+    21300150: KakaoTalk_20170805_115847369_75
+    21300152: KakaoTalk_20170805_115847369_76
+    21300154: KakaoTalk_20170805_115847369_77
+    21300156: KakaoTalk_20170805_115847369_78
+    21300158: KakaoTalk_20170805_115847369_79
+    21300160: KakaoTalk_20170805_115847369_80
+    21300162: KakaoTalk_20170805_115847369_81
+    21300164: KakaoTalk_20170805_115847369_82
+    21300166: KakaoTalk_20170805_115847369_83
+    21300168: KakaoTalk_20170805_115847369_84
+    21300170: KakaoTalk_20170805_115847369_85
+    21300172: KakaoTalk_20170805_115847369_86
+    21300174: KakaoTalk_20170805_115847369_87
+    21300176: KakaoTalk_20170805_115847369_88
+    21300178: KakaoTalk_20170805_115847369_89
+    21300180: KakaoTalk_20170805_115847369_90
+    21300182: KakaoTalk_20170805_115847369_91
+    21300184: KakaoTalk_20170805_115847369_92
+    21300186: KakaoTalk_20170805_115847369_93
+    21300188: KakaoTalk_20170805_115847369_94
+    21300190: KakaoTalk_20170805_115847369_95
+    21300192: KakaoTalk_20170805_115847369_96
+    21300194: KakaoTalk_20170805_115847369_97
+    21300196: KakaoTalk_20170805_115847369_98
+    21300198: KakaoTalk_20170805_115847369_99
+    21300200: KakaoTalk_20170805_115847369_100
+    21300202: KakaoTalk_20170805_115847369_101
+    21300204: KakaoTalk_20170805_115847369_102
+    21300206: KakaoTalk_20170805_115847369_103
+    21300208: KakaoTalk_20170805_115847369_104
+    21300210: KakaoTalk_20170805_115847369_105
+    21300212: KakaoTalk_20170805_115847369_106
+    21300214: KakaoTalk_20170805_115847369_107
+    21300216: KakaoTalk_20170805_115847369_108
+    21300218: KakaoTalk_20170805_115847369_109
+    21300220: KakaoTalk_20170805_115847369_110
+    21300222: KakaoTalk_20170805_115847369_111
+    21300224: KakaoTalk_20170805_115847369_112
+    21300226: KakaoTalk_20170805_115847369_113
+    21300228: KakaoTalk_20170805_115847369_114
+    21300230: KakaoTalk_20170805_115847369_115
+    21300232: KakaoTalk_20170805_115847369_116
+    21300234: KakaoTalk_20170805_115847369_117
+    21300236: KakaoTalk_20170805_115847369_118
+    21300238: KakaoTalk_20170805_115847369_119
+    21300240: KakaoTalk_20170805_115847369_120
+    21300242: KakaoTalk_20170805_115847369_121
+    21300244: KakaoTalk_20170805_115847369_122
+    21300246: KakaoTalk_20170805_115847369_123
+    21300248: KakaoTalk_20170805_115847369_124
+    21300250: KakaoTalk_20170805_115847369_125
+    21300252: KakaoTalk_20170805_115847369_126
+    21300254: KakaoTalk_20170805_115847369_127
+    21300256: KakaoTalk_20170805_115847369_128
+    21300258: KakaoTalk_20170805_115847369_129
+    21300260: KakaoTalk_20170805_115847369_130
+    21300262: KakaoTalk_20170805_115847369_131
+    21300264: KakaoTalk_20170805_115847369_132
+    21300266: KakaoTalk_20170805_115847369_133
+    21300268: KakaoTalk_20170805_115847369_134
+    21300270: KakaoTalk_20170805_115847369_135
+    21300272: KakaoTalk_20170805_115847369_136
+    21300274: KakaoTalk_20170805_115847369_137
+    21300276: KakaoTalk_20170805_115847369_138
+    21300278: KakaoTalk_20170805_115847369_139
+    21300280: KakaoTalk_20170805_115847369_140
+    21300282: KakaoTalk_20170805_115847369_141
+    21300284: KakaoTalk_20170805_115847369_142
+    21300286: KakaoTalk_20170805_115847369_143
+    21300288: KakaoTalk_20170805_115847369_144
+    21300290: KakaoTalk_20170805_115847369_145
+    21300292: KakaoTalk_20170805_115847369_146
+    21300294: KakaoTalk_20170805_115847369_147
+    21300296: KakaoTalk_20170805_115847369_148
+    21300298: KakaoTalk_20170805_115847369_149
+    21300300: KakaoTalk_20170805_115847369_150
+    21300302: KakaoTalk_20170805_115847369_151
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KakaoTalk_20170805_115847369_0
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 158
+        width: 1289
+        height: 2684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KakaoTalk_20170805_115847369_1
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1193
+        width: 1597
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: ttt
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
